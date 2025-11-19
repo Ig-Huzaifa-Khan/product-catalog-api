@@ -2,6 +2,10 @@
 
 This is a simple Product Catalog API built with Express that serves a small in-memory list of products and a static frontend from the `public/` directory.
 
+## Author
+
+**Hujefa Khan**
+
 ## Installation & Setup Instructions
 
 Follow these steps to clone the repository, install dependencies, run the server, and access the API and frontend.
@@ -11,7 +15,7 @@ Follow these steps to clone the repository, install dependencies, run the server
 Open a terminal and run:
 
 ```bash
-git clone 
+git clone https://github.com/Ig-Huzaifa-Khan/product-catalog-api.git
 cd product-catalog-api
 ```
 
@@ -71,6 +75,10 @@ If your port `3000` is in use, change the `PORT` value in `server.js` and restar
 - If `npm install` fails, check your internet connection or try clearing npm cache: `npm cache clean --force`.
 - To inspect or modify product data, edit `server.js` (the `products` array is in-memory).
 
+## License
+
+This project is licensed under the MIT License.
+
 ---
 
-If you'd like, I can also add a short `curl` examples section or commit this `README.md` for you. What would you like next?
+
